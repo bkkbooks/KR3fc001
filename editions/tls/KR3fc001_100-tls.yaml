@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc001/tls/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰六錢四分錢之三術曰以月三十日乗千錢爲法以三十日乗千錢爲法者得三萬是爲貸人錢三萬一日息三十也以息三十乗今所貸錢數又以九日乗之爲實實如法得一錢以九日乗今所貸錢爲今一日所有錢於今有術爲所有數息三十爲所求率三萬錢爲所有率此又可以一月三十日約息三十錢爲十分一日以乗今一日所有錢爲實千錢爲法爲率者當等之於一也故三十日或可乗本或可約息皆所以等之也九章筭經卷第三
+  hash: sha256:f58426c111156afa38c1e9f7d8540a7c607af5c83cf81af4968efc76b1f48bc2
+metadata:
+  title: 九章筭經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc001.xml
+hash: sha256:1b8904873feb511c0a9d78ed7ea6f5963aba3c542299d6694eb60e489aa3c9f6

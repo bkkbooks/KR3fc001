@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3fc001/bkk/v1/markers/74
+seq: 74
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc001_tls_001-p36.s1.1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup34, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 14, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: line-break, offset: 16, content: '', id: KR3fc001_tls_074-bkklb1}
+  - {type: substitution, offset: 17, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: substitution, offset: 28, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR3fc001_tls_001-p36.s2.1}
+  - {type: line-break, offset: 32, content: '', id: KX_2_dup36, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: line-break, offset: 34, content: '', id: KR3fc001_tls_074-bkklb2}
+  - {type: 'tls:seg-end', offset: 35, content: '', id: KR3fc001_tls_001-p36.s2.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 35, content: '', id: KR3fc001_tls_001-p36.s4}
+  - {type: line-break, offset: 35, content: '', id: KX_4_dup36, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 37, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
+  back: []
+hash: sha256:be92fb418c9e8d0a613ebdc50998faeee9c77aa5ce29dd2fb53fc79b688fcd45

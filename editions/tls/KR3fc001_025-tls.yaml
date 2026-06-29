@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc001/tls/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 九章筭經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc001.xml
+hash: sha256:f190d54cf082d92bd1c0629bcaa7d90e3c41d88528cb2ab585d46b7b7fd6beaf

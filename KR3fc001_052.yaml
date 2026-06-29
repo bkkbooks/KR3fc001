@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc001/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四術曰以粟求稻六之五而一臣淳風等謹按稻率六十亦約二率而乘除今有粟七斗八升欲為豉問得幾何答曰為豉九斗八升二十五分升之七術曰以粟求鼓六十三之五十而一今有粟五斗五升欲為飱問得幾何答曰為飱九斗升術曰以粟求飱九之五而一臣淳風等謹按飱率九十退位與求稻多同今有粟四斗欲為熟菽問幾何答曰為熟菽八斗二升五分升之四術曰以粟求熟菽二百七之百而一臣淳風等謹按熟菽之率一百三半半者其母二故以母二通之所求之率既被二乘所有之率隨而俱長故以二百七之百而一今有粟二斗欲為糵問得幾何答曰為糵七斗
+  hash: sha256:b14be965d6a66adbc75a80eea8c4defc6f522a112fb1f19f0c25e1fd55328956
+metadata:
+  title: 九章筭經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc001.xml
+hash: sha256:37dcd4702c5c3d67c4f234af9c80481e8b2c63aef25c1ef6c084a9e820a78371

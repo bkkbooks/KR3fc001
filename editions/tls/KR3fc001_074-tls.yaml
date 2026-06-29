@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc001/tls/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者知餘分之所益故曰實多宜以多乗法少乗實故曰各以所得多少數乗法實即物數也九章筭經卷第二
+  hash: sha256:451a2fbf89ca66364011427203d71a8dcca3ce9eadd7ffebbefa5e927ae5f5c3
+metadata:
+  title: 九章筭經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc001.xml
+hash: sha256:8214f267d2da6d8751c712f3b5327846a23bb2f4b4a1e4cf78094c74d7e14f72

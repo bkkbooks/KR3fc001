@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc001/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 入於經分矣然則分子相乗爲實者猶齊其金也母相乗爲法者猶齊其人也同其母爲二十馬無事於同但欲求齊而已又馬五匹直金三斤完全之率分而言之則爲一匹直金五分斤之三七人賣四馬一人賣七分馬之四分子與人交互相生所從言之異而計數則三術同歸也今有田廣三歩三分歩之一從五歩五分歩之二問爲田幾何荅曰十八歩又有田廣七歩四分歩之三從十五歩九分歩之五問爲田幾何
+  hash: sha256:903661de8a8433b23005a967a7bb4742b10bd787c3e60bd894655c9ce9ca78a5
+metadata:
+  title: 九章筭經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc001.xml
+hash: sha256:fcdedbbe28afd4b8e402c39534569b719f9a8e4e8e6a165e0d427b9131d44e25
