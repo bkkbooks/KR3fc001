@@ -5,12 +5,16 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc001_tls_001-p36.s1.1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup34, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 14, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: line-break, offset: 16, content: '', id: KR3fc001_tls_074-bkklb1}
+  - {type: substitution, offset: 17, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
+  - {type: substitution, offset: 28, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'tls:seg', offset: 32, content: '', id: KR3fc001_tls_001-p36.s2.1}
   - {type: line-break, offset: 32, content: '', id: KX_2_dup36, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: line-break, offset: 34, content: '', id: KR3fc001_tls_074-bkklb2}
   - {type: 'tls:seg-end', offset: 35, content: '', id: KR3fc001_tls_001-p36.s2.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 35, content: '', id: KR3fc001_tls_001-p36.s4}
   - {type: line-break, offset: 35, content: '', id: KX_4_dup36, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 37, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   back: []
-hash: sha256:f7b64c1852c13db221a7a5439d9472767b47e53618586ae09fe80a0c43677ed8
+hash: sha256:e106abe65ad71f94a0f8086b0554b0781bf7ef294709db513b0fefe9daaa8fe2
